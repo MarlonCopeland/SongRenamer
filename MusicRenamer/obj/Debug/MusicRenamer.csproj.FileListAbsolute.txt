@@ -1,0 +1,8 @@
+c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\MusicRenamer\bin\Debug\MusicRenamer.exe.config
+c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\MusicRenamer\bin\Debug\MusicRenamer.exe
+c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\MusicRenamer\bin\Debug\MusicRenamer.pdb
+c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.csprojResolveAssemblyReference.cache
+c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\MusicRenamer\obj\Debug\Interop.Shell32.dll
+c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.csproj.ResolveComReference.cache
+c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.exe
+c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.pdb
