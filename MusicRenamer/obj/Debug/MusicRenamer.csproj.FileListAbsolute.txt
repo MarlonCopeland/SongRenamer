@@ -6,3 +6,12 @@ c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\Music
 c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.csproj.ResolveComReference.cache
 c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.exe
 c:\users\marloncopeland\documents\visual studio 2015\Projects\MusicRenamer\MusicRenamer\obj\Debug\MusicRenamer.pdb
+C:\Users\MarlonCopeland\source\repos\SongRenamer\MusicRenamer\bin\Debug\MusicRenamer.exe.config
+C:\Users\MarlonCopeland\source\repos\SongRenamer\MusicRenamer\bin\Debug\MusicRenamer.exe
+C:\Users\MarlonCopeland\source\repos\SongRenamer\MusicRenamer\bin\Debug\MusicRenamer.pdb
+C:\Users\MarlonCopeland\source\repos\SongRenamer\MusicRenamer\obj\Debug\MusicRenamer.csprojAssemblyReference.cache
+C:\Users\MarlonCopeland\source\repos\SongRenamer\MusicRenamer\obj\Debug\Interop.Shell32.dll
+C:\Users\MarlonCopeland\source\repos\SongRenamer\MusicRenamer\obj\Debug\MusicRenamer.csproj.ResolveComReference.cache
+C:\Users\MarlonCopeland\source\repos\SongRenamer\MusicRenamer\obj\Debug\MusicRenamer.csproj.CoreCompileInputs.cache
+C:\Users\MarlonCopeland\source\repos\SongRenamer\MusicRenamer\obj\Debug\MusicRenamer.exe
+C:\Users\MarlonCopeland\source\repos\SongRenamer\MusicRenamer\obj\Debug\MusicRenamer.pdb

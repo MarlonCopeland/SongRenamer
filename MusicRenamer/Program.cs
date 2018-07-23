@@ -50,8 +50,8 @@ namespace MusicRenamer
                     Console.WriteLine("{0}\t{1}: {2}", i, arrHeaders[i], objFolder.GetDetailsOf(folderItem, i));
 
                 }
-                songTitle = objFolder.GetDetailsOf(folderItem, 4);
-                songTitle = objFolder.GetDetailsOf(folderItem, 5);
+                songTitle = objFolder.GetDetailsOf(folderItem, 21);
+                songArtist = objFolder.GetDetailsOf(folderItem, 13);
                 FileAttributes attributes = File.GetAttributes(song);
 
                 FileInfo fi = new FileInfo("bart.txt");
@@ -67,7 +67,7 @@ namespace MusicRenamer
                 ////copy the file to target dir
 
 
-                System.IO.File.Move(song, targetPath + songArtist + @"\" + songTitle + ".mp3");
+                System.IO.File.Move(song, targetPath + songArtist + @"\" + songTitle + ".m4a");
                 //rename the file to the Title of the Song
             }
             Console.ReadLine();
